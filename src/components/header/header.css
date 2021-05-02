@@ -1,0 +1,28 @@
+.main {
+  background-image: url(../images/pexels-adrien-olichon-2387793.jpg); /*for node*/
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  background-attachment: fixed;
+}
+
+.main h1 {
+  margin: auto;
+  margin-top: 30vh;
+  display: block;
+  font-family: "Maven Pro", sans-serif;
+  line-height: 1.5;
+}
+
+.top {
+  font-size: 60px;
+}
+
+.bottom {
+  font-size: 20px !important;
+  font-weight: 100;
+}

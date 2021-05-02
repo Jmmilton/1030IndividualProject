@@ -1,0 +1,52 @@
+hr {
+  margin-bottom: 55px;
+  clear: both;
+}
+
+footer {
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.footer-top {
+  padding: 20px;
+}
+
+.footer a {
+  border: none;
+  outline: none;
+  color: gainsboro;
+  margin-right: 30px;
+}
+
+/* .footer a:hover {
+  text-decoration: none;
+} */
+
+.footer-top i {
+  text-decoration: none;
+  transition: 300ms ease-in-out;
+}
+
+.footer-top i:hover {
+  font-size: 25px;
+  transition: 300ms ease-in-out;
+  text-decoration: none;
+  color: purple;
+}
+
+.footer-bottom {
+  padding-top: 20px;
+}
+
+.icons {
+  margin: 30px;
+  transition: ease-in-out 300ms;
+}
+
+.icons :hover {
+  /* color: #340bca; */
+  font-size: 30px;
+  transform: scale(1.2);
+}
